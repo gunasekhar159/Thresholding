@@ -81,26 +81,26 @@ for i in range(0,9):
 ## Output
 
 ### Original Image
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/Thresholding/blob/main/1.png?raw=true)
 
 ### Global Thresholding
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/Thresholding/blob/main/2.png?raw=true)
 
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/Thresholding/blob/main/3.png?raw=true)
 
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/Thresholding/blob/main/4.png?raw=true)
 
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/Thresholding/blob/main/5.png?raw=true)
 
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/Thresholding/blob/main/6.png?raw=true)
 
 ### Adaptive Thresholding
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/Thresholding/blob/main/7.png?raw=true)
 
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/Thresholding/blob/main/8.png?raw=true)
 
 ### Optimum Global Thesholding using Otsu's Method
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/Thresholding/blob/main/9.png?raw=true)
 
 
 ## Result
