@@ -26,7 +26,7 @@ Use Otsu's method to segment the image.
 ## Step 6:
 Display the results.
 
-
+```
 
 ## Program
 Program:
@@ -81,9 +81,11 @@ for i in range(0,9):
 ## Output
 
 ### Original Image
+
 ![output](https://github.com/gunasekhar159/Thresholding/blob/main/1.png?raw=true)
 
 ### Global Thresholding
+
 ![output](https://github.com/gunasekhar159/Thresholding/blob/main/2.png?raw=true)
 
 ![output](https://github.com/gunasekhar159/Thresholding/blob/main/3.png?raw=true)
@@ -95,11 +97,13 @@ for i in range(0,9):
 ![output](https://github.com/gunasekhar159/Thresholding/blob/main/6.png?raw=true)
 
 ### Adaptive Thresholding
+
 ![output](https://github.com/gunasekhar159/Thresholding/blob/main/7.png?raw=true)
 
 ![output](https://github.com/gunasekhar159/Thresholding/blob/main/8.png?raw=true)
 
 ### Optimum Global Thesholding using Otsu's Method
+
 ![output](https://github.com/gunasekhar159/Thresholding/blob/main/9.png?raw=true)
 
 
